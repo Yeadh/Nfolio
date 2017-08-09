@@ -1,0 +1,36 @@
+.minimal_back{
+	background: rgba(255, 255, 255, 0.75);
+	width: 350px;
+    margin: 0 auto;
+    padding: 50px 0;
+    border-radius: 10px;
+}
+.text-left .portfolio-filter ul {
+    text-align:center;
+}
+.why-us span i{
+	font-size:34px;
+}
+i{
+	color:#bf883f;
+}
+
+/**Home 2 style***/
+.home-2-parallax{
+	padding:180px 0px  150px!important;
+}
+.home-2-heading h4{
+	font-family: 'PT Sans', sans-serif!important;
+	    font-weight: 500!important;
+}
+.home-2-heading h2, .home_heading h2{
+	color: #bf883f!important;
+}
+/**Home 2 about style***/
+.page-title {
+    padding: 100px 0!important;
+    background: url(img/2.jpg)50% 40%;
+}
+.contact-details {
+    margin-top: 90px;
+}
